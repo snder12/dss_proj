@@ -1,3 +1,7 @@
+*{
+	background-color: #eee;
+	font-family: 'Noto Sans JP', sans-serif;
+}
 .header{
-	font-size: 20px;
+	text-align: center;
 }
