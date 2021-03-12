@@ -5,7 +5,7 @@
 ***** BIG PROJECT DSS *****
 
 # Basically we will make the web-based application DSS
-# Hopefully this app will using Machine Learning method
+# This app will using Machine Learning method
 
 
 # FINAL OUTPUT  
@@ -16,7 +16,8 @@
 5. Put the DSS into the website
 
 # Thursday 04/03/2021
---- Learning Bootstrap Fundamental ---
-source : https://github.com/StartBootstrap/sb-clean-blog-angular
+Progress :
+- Place basic html
 
-Result : 
+TODO :
+- Design the website using Adobe PS
