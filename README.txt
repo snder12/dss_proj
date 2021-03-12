@@ -19,5 +19,10 @@
 Progress :
 - Place basic html
 
+# Friday 12/03/2021
+Progress :
+- Find new method SAW and TOPSIS
+- Find Python module "mcdm" source : https://pypi.org/project/mcdm/
+
 TODO :
 - Design the website using Adobe PS
