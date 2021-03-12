@@ -8,7 +8,7 @@
 # This app will using Machine Learning method
 
 
-# FINAL OUTPUT  
+# GOAL  
 1. Make the website
 2. Find the problem
 3. Make a model of DSS
