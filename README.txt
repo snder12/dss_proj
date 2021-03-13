@@ -12,7 +12,7 @@
 1. Make the website
 2. Find the problem
 3. Make a model of DSS
-4. Make the DSS ** Using PyPI DSS
+4. Make the DSS ** Using library PyPI DSS
 5. Put the DSS into the website
 
 # Thursday 04/03/2021
@@ -22,7 +22,10 @@ Progress :
 # Friday 12/03/2021
 Progress :
 - Find new method SAW and TOPSIS
-- Find Python module "mcdm" source : https://pypi.org/project/mcdm/
+- Find Python library "mcdm" source : https://pypi.org/project/mcdm/
+
+# Saturday 13/03/2021
+- Find new reference TOPSIS using PHP and MySQL source : http://cahyadsn.phpindonesia.id/extra/topsis.php
 
 TODO :
 - Design the website using Adobe PS
