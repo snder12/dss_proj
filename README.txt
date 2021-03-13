@@ -1,6 +1,7 @@
 # Wednesday 03/03/2021
-# Author : 	- Sandi Yusuf N
-			- Ricky Rafi H
+# Author : 	
+- Sandi Yusuf N
+- Ricky Rafi H
 
 ***** BIG PROJECT DSS *****
 
@@ -29,3 +30,4 @@ Progress :
 
 TODO :
 - Design the website using Adobe PS
+- Learn MySQL with PHP
